@@ -1,8 +1,8 @@
 var thehours = new Date().getHours();
 	var themessage;
-	var morning = ('Good Morning Priscilia :)');
-	var afternoon = ('Good Afternoon Priscilia :)');
-	var evening = ('Good Evening Priscilia :)');
+	var morning = ('Good Morning Devi :)');
+	var afternoon = ('Good Afternoon Devi :)');
+	var evening = ('Good Evening Devi :)');
 
 	if (thehours >= 0 && thehours < 12) {
 		themessage = morning; 
